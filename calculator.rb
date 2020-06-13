@@ -9,11 +9,8 @@ sum = first_number + second_number
 
 
 difference = first_number - second_number
-return difference
 
 product = first_number * second_number
-return product
 
 quotient = first_number / second_number
-return quotient
 
