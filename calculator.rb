@@ -1,8 +1,8 @@
 # Add your variables here
 
 
-first_number = num1
-second_number = num2
+first_number = 8
+second_number = 2
 
 
 sum = first_number + second_number
